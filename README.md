@@ -4,6 +4,7 @@ A Node.js application to find open sections of a class and send pushover notific
 - Axios -v 0.19.0
 - puppeteer -v 1.18.1
 - Node.js -v 12.6.0
+- Ubuntu -v 18.04
 
 ## Installation
 1. Install node.js - Follow this [link](https://github.com/nodesource/distributions/blob/master/README.md) to install the latest version.
