@@ -66,7 +66,7 @@ wget
 
 ## Startup
 
-1. Run node index.js in the terminal to test if it works
+1. Run `node index.js` to test if it works
 2. Install npm2 `npm install pm2 -g`
 3. Start the up using npm2 `sudo pm2 start index.js`
-4. Run npm2 on restart`sudo pm2 startup`
+4. Run npm2 on restart `sudo pm2 startup`
