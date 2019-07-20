@@ -1,5 +1,5 @@
 # Timetable-Availability
-A Node.js application to find open sections of a class and send pushover notifications
+A Node.js application to find open sections of a class and send pushover notifications. This could have been done pretty easily and more lightweight using Python and Beautiful Soup but using Puppeteer allows real browser emulation and will bypass almost all bot detection and therefore have a better of a chance of flying beneath the radar.
 ## Requirements
 - Axios -v 0.19.0
 - puppeteer -v 1.18.1
